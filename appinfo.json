@@ -1,0 +1,18 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "6f5f8b78-1bd1-4586-9f56-368e5570e870",
+    "appKeys": {},
+    "longName": "Yandex.Probki",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "Yandex.Probki",
+    "companyName": "kitjarik",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": []
+    }
+}
